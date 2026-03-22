@@ -193,4 +193,27 @@ MnemoTek
 ## Acknowledgments
 
 Built using open-source tools, with a focus on the InsightFace ecosystem
+## Versioning and Source Access
+
+This repository contains the initial prototype (Version 1) of the system.
+
+The project has undergone multiple internal iterations, evolving through at least 6 to 8 versions, including significant improvements in:
+
+* Performance optimization
+* Identity tracking and stability
+* Visual quality and blending
+* System architecture and scalability
+
+The latest versions are maintained in a private repository.
+
+Access to the most recent source code may be granted upon request, for purposes such as:
+
+* Research collaboration
+* Technical evaluation
+* Product development discussions
+
+If you are interested, please reach out to discuss potential access.
+
+
+
 
