@@ -16,6 +16,17 @@ Unlike traditional solutions that rely on GPU acceleration, this system demonstr
 * Edge devices
 * Low-cost deployments
 * Scalable video processing pipelines
+* ## 🚀 Demo Preview
+
+Below is a quick visual preview of the face swapping pipeline:
+
+![Demo](assets/demo.png)
+
+## 🎥 Full Video Demo
+
+Watch the complete demonstration showcasing multi-face detection and identity-based face replacement:
+
+[![Watch the demo](https://img.youtube.com/vi/ksaD2x4p9Dg/0.jpg)](https://www.youtube.com/watch?v=ksaD2x4p9Dg)
 
 
 
